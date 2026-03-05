@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/claude-studio.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="../assets/claude-studio.png" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 > Claude Code를 열심히 쓴 당신, 도대체 얼마나 썼는지 궁금하지 않으셨나요?
