@@ -7,10 +7,10 @@
 | **저장소** | [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) |
 | **라이선스** | MIT |
 | **스택** | TypeScript, Express, Docker, Claude Code CLI |
-| **추천 레벨** | 🔵 TRIAL |
+| **추천 레벨** | 🔵 시도 |
 | **분석일** | 2026-03-13 |
 
-> 🔵 **TRIAL** — 개인/팀 사이드 프로젝트에서 실용적. 프로덕션 전 운영 부담 검토 필요
+> 🔵 **시도** — 개인/팀 사이드 프로젝트에서 실용적. 프로덕션 전 운영 부담 검토 필요
 
 ---
 
@@ -114,13 +114,13 @@
 
 | 기능 | 레벨 | 메모 |
 |------|------|------|
-| @멘션 트리거 자율 구현 | 🟢 ADOPT | 검증된 핵심 기능, 즉시 실용 가능 |
-| Claude Max 세션 재사용 | 🟢 ADOPT | 비용 절감 효과 명확, 구독자에게 바로 적용 가능 |
-| 신규 이슈 자동 라벨링 | 🟢 ADOPT | 읽기 전용 툴만 사용, 안전하고 실용적 |
-| CI 통과 후 자동 PR 리뷰 | 🔵 TRIAL | `PR_REVIEW_WAIT_FOR_ALL_CHECKS=true`로 활성화, 실사용 검토 필요 |
-| SessionHandler 의존성 체인 | 🔵 TRIAL | `분석→구현→테스트` 파이프라인, 아직 실험적 |
-| AWS Bedrock 인증 | 🟡 ASSESS | 엔터프라이즈 환경 한정, 일반 사용 불필요 |
-| WebhookRegistry 커스텀 provider | 🟡 ASSESS | 확장성 좋으나 문서 미흡 |
+| @멘션 트리거 자율 구현 | 🟢 도입 | 검증된 핵심 기능, 즉시 실용 가능 |
+| Claude Max 세션 재사용 | 🟢 도입 | 비용 절감 효과 명확, 구독자에게 바로 적용 가능 |
+| 신규 이슈 자동 라벨링 | 🟢 도입 | 읽기 전용 툴만 사용, 안전하고 실용적 |
+| CI 통과 후 자동 PR 리뷰 | 🔵 시도 | `PR_REVIEW_WAIT_FOR_ALL_CHECKS=true`로 활성화, 실사용 검토 필요 |
+| SessionHandler 의존성 체인 | 🔵 시도 | `분석→구현→테스트` 파이프라인, 아직 실험적 |
+| AWS Bedrock 인증 | 🟡 검토 | 엔터프라이즈 환경 한정, 일반 사용 불필요 |
+| WebhookRegistry 커스텀 provider | 🟡 검토 | 확장성 좋으나 문서 미흡 |
 
 ---
 
